@@ -1,0 +1,12 @@
+git status : status
+git init: start
+git --version: version
+git add .: add
+git add filename : filename
+git commit -m (message) : commit message
+git log : no. of commits
+git log --online : commit brief details
+git push -u origin master : push changes to remote repo
+git remote add origin <repository-url> : push repo to git
+git remote -v : existing remotes
+
